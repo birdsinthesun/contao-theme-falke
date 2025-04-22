@@ -1,0 +1,11 @@
+<?php //id filtern
+$ID = substr($this->cssID, 5, -1).'_target';
+?>
+  <div class="accordion-item"<?php if ($this->headlineStyle): ?> style="<?= $this->headlineStyle ?>"<?php endif; ?>>
+      <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#<?= $ID ?>" aria-expanded="true" aria-controls="<?= $ID ?>">
+          <?= $this->headline ?>
+      </button>
+    </h2>
+ <div id="<?= $ID ?>" class="accordion-collapse collapse show">
+      <div class="accordion-body">

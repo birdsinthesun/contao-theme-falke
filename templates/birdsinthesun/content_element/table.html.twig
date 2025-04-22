@@ -1,0 +1,32 @@
+{% extends "@Contao/content_element/table.html.twig" %}
+{% use "@Contao/component/_table.html.twig" %} 
+{#
+  ** Add changes to the base template here. **
+
+  Hint: Try adjusting blocks and attributes instead of
+  overwriting the whole template. This way your version
+  can remain compatible with future changes to the base
+  template as well as adjustments made by extensions.
+
+  Currently available blocks:
+    "table_component", "table", "table_attributes",
+    "table_caption", "table_caption_inner",
+    "table_header", "table_header_inner",
+    "table_header_cell_content", "table_footer",
+    "table_footer_inner", "table_footer_cell_content",
+    "table_body", "table_body_inner",
+    "table_body_cell_content", "table_cell_content",
+    "table_script", "content", "headline_component",
+    "headline_attributes", "headline_inner",
+    "wrapper", "wrapper_tag", "attributes", "inner",
+    "metadata", "style", "script"
+
+  Example:
+    {% block table_component %}
+       {{ parent() }}
+       My additional content for 'table_component'…
+    {% endblock %}
+#}
+ {% set table_attributes = attrs(table_attributes|default)                           
+                      .addClass('table')                                             
+                  %}  

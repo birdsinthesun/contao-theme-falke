@@ -1,0 +1,30 @@
+{
+  "name": "birdsinthesun/contao-theme-falke",
+  "type": "contao-theme",
+  "homepage": "https://falke.birdsinthesun.de",
+  "version": "1.0.0",
+  "license": "MIT",
+  "require": {
+    "contao/core-bundle": "5.5.*",
+    "contao/calendar-bundle": "5.5.*",
+    "contao/comments-bundle": "5.5.*",
+    "contao/conflicts": "*@dev",
+    "contao/faq-bundle": "5.5.*",
+    "contao/manager-bundle": "5.5.*",
+    "contao/news-bundle": "5.5.*",
+    "contao/newsletter-bundle": "5.5.*",
+     "twig/intl-extra":"3.20.*",
+      "birdsinthesun/fly_ux":"1.1.6"
+  },
+  "extra": {
+    "contao-component-dir": "assets"
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "@php vendor/bin/contao-setup"
+    ],
+    "post-update-cmd": [
+      "@php vendor/bin/contao-setup"
+    ]
+  }
+}

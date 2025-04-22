@@ -1,0 +1,137 @@
+#main_nav{display:none;}
+@media screen and (min-width: 961px) {
+
+       
+    /*Hauptnavigation*/
+    #main_nav{
+        display: block;
+        position:absolute;
+        top:240px;
+       box-sizing:border-box;
+       padding:0 30px;
+        margin: 0;
+        min-height:55px;
+        height:auto;
+        width:100%;
+        z-index:999;
+        background-color:var(--dark);
+        }
+    #main_nav ul.level_1 {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        float:left;
+        position: relative;
+        width:auto;
+       display:inline-block;
+        height:auto;
+        
+        
+    }
+
+    #main_nav ul.level_1 > li {
+        padding: 0;
+        margin: 0;
+        float:left;
+        position:relative;
+        display:inline-block;
+        
+        width:auto;
+        
+        
+    }
+    #main_nav ul.level_1 > li > strong,
+    #main_nav ul.level_1 > li > a {
+        font-size: 24px;
+        font-weight:300;
+        padding: 0 15px;
+        margin:0;
+        color: var(--white);
+        text-decoration: none;
+        line-height:55px;
+        height:58px;
+          
+          position:relative;
+           display:inline-block;
+      
+        width:auto;
+    }
+
+    #main_nav ul.level_1 > li.trail > a,
+    #main_nav ul.level_1 > li > strong,
+    #main_nav ul.level_1 > li > a:hover {
+       color: var(--dark);
+       background-color: var(--white);
+    }
+
+    /* Pfeil für Untermenüs */
+    #main_nav ul.level_1 > li.submenu > .toggler::after {
+        content: " ▼";
+        font-size: 18px;
+        line-height:55px;
+        
+    }
+
+    /* Level 2 Styling */
+    #main_nav ul.level_2 {
+        
+        list-style: none;
+        padding: 0;
+        margin: 14px 0 0 0;
+        position: absolute;
+       
+      
+        display: none;
+        width: 400px;
+        height:auto;
+        
+        
+
+    }
+    #main_nav ul.level_2 li {
+        width: 100%;
+        display:inline-block;
+        position:relative;
+        height:auto;
+    }
+    #main_nav ul.level_2 strong,
+    #main_nav ul.level_2 a {
+         font-size:18px;
+        display: block;
+        padding: 10px 10px 10px 0;
+      color: var(--white);
+       background-color: var(--dark);
+        text-decoration: none;
+        border-top: 1px solid var(--white);
+        
+    }
+    #main_nav ul.level_2 strong.active,
+    #main_nav ul.level_2 a:hover {
+        color: var(--dark);
+       background-color: var(--white);
+    }
+
+    /* Dropdown sichtbar machen */
+    #main_nav ul.level_1 > li.submenu.show > ul.level_2 {
+        display: block;
+    }
+
+    /* Pfeil anklickbar machen */
+    #main_nav .toggler {
+        cursor: pointer;
+        background: none;
+        border: none;
+        color: #666;
+        font-size: 18px;
+        line-height:55px;
+        margin: 0 5px 0 0 ;
+    }
+    #main_nav .show .toggler {
+        color: rgba(210,179,86,1);
+    }
+    #main_nav .toggler:hover {
+        color: #bbb;
+    }
+    #main_nav .level_2 .toggler{
+        display:none;}
+}

@@ -1,0 +1,13 @@
+<!-- indexer::stop -->
+<nav class="<?= $this->class ?> navbar navbar-expand-lg <?= $this->cssID ?>"<?php if ($this->style): ?> style="<?= $this->style ?>"<?php endif; ?>>
+
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+<div class="container-fluid">
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    
+  <?= $this->items ?>
+</div></div>
+</nav>
+<!-- indexer::continue -->

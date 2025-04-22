@@ -1,0 +1,1 @@
+<section class="<?= $this->class ?> accordion" <?= $this->cssID ?> <?php if ($this->style): ?> style="<?= $this->style ?>"<?php endif; ?>>
