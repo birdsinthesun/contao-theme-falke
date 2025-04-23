@@ -6,6 +6,16 @@
   "keywords":["theme","fly_ux","contao","mini","WYSIWYG","Drag_Drop"],
   "version": "1.1.0",
   "license": "MIT",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "authors": [
+        {
+            "name": "Monique Hahnefeld",
+            "email": "hello@bits-design.de",
+            "homepage":"https://birdsinthesun.de",
+            "role":"Developer"
+        }
+    ],
   "require": {
     "contao/core-bundle": "5.5.*",
     "contao/calendar-bundle": "5.5.*",
