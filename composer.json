@@ -2,7 +2,7 @@
   "name": "birdsinthesun/contao-theme-falke",
   "type": "contao-theme",
   "homepage": "https://github.com/birdsinthesun/contao-theme-falke",
-  "version": "main",
+  "version": "1.1.0",
   "license": "MIT",
   "require": {
     "contao/core-bundle": "5.5.*",
