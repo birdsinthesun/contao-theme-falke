@@ -26,7 +26,7 @@
     "repositories": {
         "birdsinthesun/contao-theme-falke": {
             "type": "path",
-            "url": "/vendor/birdsinthesun/contao-theme-falkey"
+            "url": "/vendor/birdsinthesun/contao-theme-falke"
         }
     },
     "require": {
