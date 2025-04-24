@@ -13,7 +13,7 @@
     ],
     "minimum-stability":"stable",
     "prefer-stable": true,
-    "version": "main",
+    "version": "dev-main",
     "license": "MIT",
     "authors": [
         {
