@@ -6,7 +6,6 @@
   "keywords":["theme","fly_ux","contao","mini","WYSIWYG","Drag_Drop"],
   "version": "main",
   "license": "MIT",
-  "prefer-stable": true,
   "authors": [
         {
             "name": "Monique Hahnefeld",
@@ -26,16 +25,5 @@
     "contao/newsletter-bundle": "5.5.*",
      "twig/intl-extra":"3.20.*",
       "birdsinthesun/fly_ux":"1.1.*"
-  },
-  "extra": {
-    "contao-component-dir": "assets"
-  },
-  "scripts": {
-    "post-install-cmd": [
-      "@php vendor/bin/contao-setup"
-    ],
-    "post-update-cmd": [
-      "@php vendor/bin/contao-setup"
-    ]
   }
 }
