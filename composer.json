@@ -11,6 +11,7 @@
         "WYSIWYG",
         "Drag_Drop"
     ],
+    "minimum-stability":"stable",
     "version": "main",
     "license": "MIT",
     "authors": [
