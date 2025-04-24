@@ -20,7 +20,6 @@
     "contao/comments-bundle": "5.5.*",
     "contao/conflicts": "*@dev",
     "contao/faq-bundle": "5.5.*",
-    "contao/manager-bundle": "5.5.*",
     "contao/news-bundle": "5.5.*",
     "contao/newsletter-bundle": "5.5.*",
      "twig/intl-extra":"3.20.*"
