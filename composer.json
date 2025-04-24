@@ -13,7 +13,7 @@
     ],
     "minimum-stability":"stable",
     "prefer-stable": true,
-    "version": "main",
+    "version": "1.1.4",
     "license": "MIT",
     "authors": [
         {
@@ -40,5 +40,10 @@
         "contao/newsletter-bundle": "5.5.*",
         "twig/intl-extra": "3.20.*",
         "birdsinthesun/fly_ux": "1.1.*"
-    }
+    },
+    "scripts": {
+    "post-install-cmd": [
+      "php bin/console contao:backup:restore"
+    ]
+  }
 }
