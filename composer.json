@@ -12,8 +12,6 @@
             "homepage":"https://birdsinthesun.de",
             "role":"Developer"
         }
-    ],
-  "require": {
-    "contao/core-bundle": "5.5.*"
-  }
+    ]
+ 
 }
