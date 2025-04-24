@@ -1,8 +1,6 @@
 {
     "name": "birdsinthesun/contao-theme-falke",
     "type": "contao-bundle",
-    "version": "main",
-    "license": "MIT",
     "authors": [
         {
             "name": "Monique Hahnefeld",
