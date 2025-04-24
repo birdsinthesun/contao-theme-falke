@@ -28,8 +28,8 @@
           "contao": {
             "assets": [
               "files",
-              "templates"
-        ]
+              "templates" ]
+          }
     },
     "require": {
         "contao/manager-bundle":"5.5.*",
