@@ -1,15 +1,14 @@
 {
-  "name": "birdsinthesun/contao-theme-falke",
-  "type": "contao-bundle",
-  "version": "main",
-  "license": "MIT",
-  "authors": [
+    "name": "birdsinthesun/contao-theme-falke",
+    "type": "contao-bundle",
+    "version": "main",
+    "license": "MIT",
+    "authors": [
         {
             "name": "Monique Hahnefeld",
             "email": "hello@bits-design.de",
-            "homepage":"https://birdsinthesun.de",
-            "role":"Developer"
+            "homepage": "https://birdsinthesun.de",
+            "role": "Developer"
         }
     ]
- 
 }
