@@ -30,6 +30,7 @@
         }
     },
     "require": {
+        "contao/contao-manager":"^1.1",
         "contao/core-bundle": "5.5.*",
         "contao/calendar-bundle": "5.5.*",
         "contao/comments-bundle": "5.5.*",
