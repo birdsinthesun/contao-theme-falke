@@ -13,7 +13,7 @@
     ],
     "minimum-stability":"stable",
     "prefer-stable": true,
-    "version": "main",
+    "version": "1.1.4",
     "license": "MIT",
     "authors": [
         {
@@ -23,14 +23,8 @@
             "role": "Developer"
         }
     ],
-    "repositories": {
-        "birdsinthesun/contao-theme-falke": {
-            "type": "path",
-            "url": "/vendor/birdsinthesun/contao-theme-falke"
-        }
-    },
     "require": {
-        "contao/contao-manager":"^1.1",
+        "contao/manager-bundle":"5.5.*",
         "contao/core-bundle": "5.5.*",
         "contao/calendar-bundle": "5.5.*",
         "contao/comments-bundle": "5.5.*",
@@ -39,6 +33,14 @@
         "contao/news-bundle": "5.5.*",
         "contao/newsletter-bundle": "5.5.*",
         "twig/intl-extra": "3.20.*",
-        "birdsinthesun/fly_ux": "1.1.*"
+        "birdsinthesun/fly_ux": "1.2.*"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "@php vendor/bin/contao-setup"
+        ],
+        "post-update-cmd": [
+            "@php vendor/bin/contao-setup"
+        ]
     }
 }
