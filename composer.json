@@ -23,11 +23,13 @@
             "role": "Developer"
         }
     ],
-    "repositories": {
-        "birdsinthesun/contao-theme-falke": {
-            "type": "path",
-            "url": "/vendor/birdsinthesun/contao-theme-falke"
-        }
+    "extra": {
+      "contao-component-dir": "assets",
+          "contao": {
+            "assets": [
+              "files",
+              "templates"
+        ]
     },
     "require": {
         "contao/manager-bundle":"5.5.*",
