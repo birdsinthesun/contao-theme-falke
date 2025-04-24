@@ -1,6 +1,18 @@
 {
     "name": "birdsinthesun/contao-theme-falke",
-    "type": "contao-bundle",
+    "type": "contao-theme",
+    "homepage": "https://github.com/birdsinthesun/contao-theme-falke",
+    "description": "Das Falke Theme ist ein Theme für das Contao CMS, das auf modernen Layout-Standards basiert und eine strukturierte, redaktionsfreundliche Umsetzung bietet. Es ist dazu gedacht die Erweiterung Fly UX näher kennenzulernen. ",
+    "keywords": [
+        "theme",
+        "fly_ux",
+        "contao",
+        "mini",
+        "WYSIWYG",
+        "Drag_Drop"
+    ],
+    "version": "main",
+    "license": "MIT",
     "authors": [
         {
             "name": "Monique Hahnefeld",
@@ -8,5 +20,17 @@
             "homepage": "https://birdsinthesun.de",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {
+        "contao/core-bundle": "5.5.*",
+        "contao/calendar-bundle": "5.5.*",
+        "contao/comments-bundle": "5.5.*",
+        "contao/conflicts": "*@dev",
+        "contao/faq-bundle": "5.5.*",
+        "contao/manager-bundle": "5.5.*",
+        "contao/news-bundle": "5.5.*",
+        "contao/newsletter-bundle": "5.5.*",
+        "twig/intl-extra": "3.20.*",
+        "birdsinthesun/fly_ux": "1.1.*"
+    }
 }
