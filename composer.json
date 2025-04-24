@@ -23,14 +23,6 @@
             "role": "Developer"
         }
     ],
-    "extra": {
-      "contao-component-dir": "assets",
-          "contao": {
-            "assets": [
-              "files",
-              "templates" ]
-          }
-    },
     "require": {
         "contao/manager-bundle":"5.5.*",
         "contao/core-bundle": "5.5.*",
