@@ -15,12 +15,15 @@ Passwort: HelloContao
 2. zum http-Verzeichnis gehen
 3. composer create-project birdsinthesun/contao-theme-falke:1.1.5 website-name
 4. die Zeile 1 in der .env aktivieren und die Datenbank-Zugangsdaten eintragen
-5. zum website-verzeichnis wechseln
-6. php bin/console contao:backup:restore
-7. In das Contao-Backend gehen über deine-domain.de/contao mit Benutzername: Falke, Passwort: HelloContao
-8. Seiten -> "Contao Theme Falke" -> Domain ändern
-9. Einstellungen -> Administrator-Mail-Adresse hinzufügen
+5. die Zeile 1 der .env in die env.local kopieren
+6. zum website-verzeichnis wechseln
+7. php bin/console contao:backup:restore
+8. In das Contao-Backend gehen über deine-domain.de/contao mit Benutzername: Falke, Passwort: HelloContao
+9. Seiten -> "Contao Theme Falke" -> Domain ändern
+10. Einstellungen -> Administrator-Mail-Adresse hinzufügen
     
-Fertig!
+### Troupleshooting
 
-Dauert nur 5 Minuten
+Am besten noch den Contao-Manager herunterladen. Die Datei in das public-Verzeichnis kopieren, umbenennen mit .php am Ende und ausführen.
+Dann die Datanbank aktualisieren.
+Eine .public Datei im assets-Verzeichnis erstellen
