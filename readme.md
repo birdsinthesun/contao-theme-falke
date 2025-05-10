@@ -13,7 +13,7 @@ Passwort: HelloContao
 
 1. per ssh anmelden
 2. zum http-Verzeichnis gehen
-3. composer create-project birdsinthesun/contao-theme-falke:1.1.5 website-name
+3. composer create-project birdsinthesun/contao-theme-falke:1.1.7 website-name
 4. die Zeile 1 in der .env aktivieren und die Datenbank-Zugangsdaten eintragen
 5. die Zeile 1 der .env in die env.local kopieren
 6. zum website-verzeichnis wechseln
