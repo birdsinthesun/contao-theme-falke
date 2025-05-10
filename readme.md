@@ -18,12 +18,9 @@ Passwort: HelloContao
 5. die Zeile 1 der .env in die env.local kopieren
 6. zum website-verzeichnis wechseln
 7. php bin/console contao:backup:restore
-8. In das Contao-Backend gehen über deine-domain.de/contao mit Benutzername: Falke, Passwort: HelloContao
-9. Seiten -> "Contao Theme Falke" -> Domain ändern
-10. Einstellungen -> Administrator-Mail-Adresse hinzufügen
-    
-### Troupleshooting
+8. noch den Contao-Manager herunterladen, die Datei in das public-Verzeichnis kopieren, umbenennen mit .php am Ende und ausführen
+9. dann die Datanbank aktualisieren
+10. In das Contao-Backend gehen über deine-domain.de/contao mit Benutzername: Falke, Passwort: HelloContao
+11. Seiten -> "Contao Theme Falke" -> Domain ändern
+12. Einstellungen -> Administrator-Mail-Adresse hinzufügen
 
-Am besten noch den Contao-Manager herunterladen. Die Datei in das public-Verzeichnis kopieren, umbenennen mit .php am Ende und ausführen.
-Dann die Datanbank aktualisieren.
-Eine .public Datei im assets-Verzeichnis erstellen
