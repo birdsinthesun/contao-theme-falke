@@ -23,4 +23,5 @@ Passwort: HelloContao
 10. In das Contao-Backend gehen über deine-domain.de/contao mit Benutzername: Falke, Passwort: HelloContao
 11. Seiten -> "Contao Theme Falke" -> Domain ändern
 12. Einstellungen -> Administrator-Mail-Adresse hinzufügen
+13. Datein -> Syncronisieren, danach den birdsinthesun-Ordner öffentlich machen
 
