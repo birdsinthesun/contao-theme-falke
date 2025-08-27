@@ -6,7 +6,7 @@
     #main_nav{
         display: block;
         position:absolute;
-        top:240px;
+        top:205px;
        box-sizing:border-box;
        padding:0 30px;
         margin: 0;
@@ -14,7 +14,7 @@
         height:auto;
         width:100%;
         z-index:999;
-        background-color:var(--dark);
+        background-color:var(--white);
         }
     #main_nav ul.level_1 {
         list-style: none;
@@ -37,6 +37,7 @@
         display:inline-block;
         
         width:auto;
+       
         
         
     }
@@ -46,7 +47,7 @@
         font-weight:300;
         padding: 0 15px;
         margin:0;
-        color: var(--white);
+        color: var(--text);
         text-decoration: none;
         line-height:55px;
         height:58px;
@@ -55,13 +56,14 @@
            display:inline-block;
       
         width:auto;
+        
     }
 
     #main_nav ul.level_1 > li.trail > a,
     #main_nav ul.level_1 > li > strong,
     #main_nav ul.level_1 > li > a:hover {
-       color: var(--dark);
-       background-color: var(--white);
+       color: var(--text);
+       background-color: var(--bg);
     }
 
     /* Pfeil für Untermenüs */
@@ -98,17 +100,17 @@
     #main_nav ul.level_2 a {
          font-size:18px;
         display: block;
-        padding: 10px 10px 10px 0;
-      color: var(--white);
-       background-color: var(--dark);
+        padding: 10px 10px 10px 10px;
+      color: var(--bg);
+       background-color: var(--accent-2);
         text-decoration: none;
-        border-top: 1px solid var(--white);
+        border-top: 1px solid var(--bg);
         
     }
     #main_nav ul.level_2 strong.active,
     #main_nav ul.level_2 a:hover {
-        color: var(--dark);
-       background-color: var(--white);
+        color: var(--accent);
+       background-color: var(-bg);
     }
 
     /* Dropdown sichtbar machen */
@@ -127,7 +129,7 @@
         margin: 0 5px 0 0 ;
     }
     #main_nav .show .toggler {
-        color: rgba(210,179,86,1);
+        color: var(--accent);
     }
     #main_nav .toggler:hover {
         color: #bbb;

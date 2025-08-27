@@ -119,15 +119,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -234,15 +225,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table">tl_member</field>
-      <field name="list_fields">firstname, lastname</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -349,15 +331,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -464,15 +437,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">a:1:{i:0;s:1:"4";}</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -579,15 +543,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">a:1:{i:0;s:1:"4";}</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -694,15 +649,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">a:1:{i:0;s:1:"4";}</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -809,15 +755,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -924,15 +861,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -1039,15 +967,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -1154,15 +1073,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -1269,15 +1179,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -1384,15 +1285,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -1499,15 +1391,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">a:1:{i:0;s:1:"4";}</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -1614,15 +1497,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">a:1:{i:0;s:1:"4";}</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -1729,15 +1603,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -1844,15 +1709,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -1959,15 +1815,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -2074,15 +1921,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -2189,15 +2027,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">1</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -2304,15 +2133,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -2419,15 +2239,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -2534,15 +2345,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -2649,15 +2451,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -2764,15 +2557,6 @@
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -2889,15 +2673,6 @@ Falls Sie die Verteiler nicht selbst abonniert haben, ignorieren Sie diese E-Mai
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -3006,15 +2781,6 @@ Falls Sie die Verteiler nicht selbst abonniert haben, ignorieren Sie diese E-Mai
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -3121,15 +2887,6 @@ Falls Sie die Verteiler nicht selbst abonniert haben, ignorieren Sie diese E-Mai
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -3236,15 +2993,6 @@ Falls Sie die Verteiler nicht selbst abonniert haben, ignorieren Sie diese E-Mai
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -3357,15 +3105,6 @@ Wenn Sie diese E-Mail nicht angefordert haben, kontaktieren Sie bitte den Admini
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -3472,15 +3211,6 @@ Wenn Sie diese E-Mail nicht angefordert haben, kontaktieren Sie bitte den Admini
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -3587,15 +3317,6 @@ Wenn Sie diese E-Mail nicht angefordert haben, kontaktieren Sie bitte den Admini
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -3702,15 +3423,6 @@ Wenn Sie diese E-Mail nicht angefordert haben, kontaktieren Sie bitte den Admini
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -3825,15 +3537,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -3940,15 +3643,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -4055,15 +3749,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -4170,15 +3855,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -4285,15 +3961,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -4400,15 +4067,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -4515,15 +4173,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -4630,15 +4279,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -4745,15 +4385,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -4860,15 +4491,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -4975,15 +4597,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -5090,15 +4703,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -5205,15 +4809,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -5320,15 +4915,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -5440,15 +5026,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -5555,15 +5132,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -5670,15 +5238,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -5785,15 +5344,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -5900,15 +5450,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -6015,15 +5556,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -6130,15 +5662,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -6245,15 +5768,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -6360,15 +5874,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -6475,15 +5980,6 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="news_format">news_month</field>
       <field name="news_startDay">0</field>
       <field name="news_order">order_date_desc</field>
-      <field name="list_table"></field>
-      <field name="list_fields">NULL</field>
-      <field name="list_where">NULL</field>
-      <field name="list_search">NULL</field>
-      <field name="list_sort">NULL</field>
-      <field name="list_info">NULL</field>
-      <field name="list_info_where">NULL</field>
-      <field name="list_layout"></field>
-      <field name="list_info_layout"></field>
       <field name="cal_calendar">NULL</field>
       <field name="cal_startDay">1</field>
       <field name="cal_format">cal_month</field>
@@ -6515,17 +6011,17 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="addMooTools">0</field>
       <field name="static">0</field>
       <field name="pid">2</field>
-      <field name="tstamp">1746734049</field>
+      <field name="tstamp">1756299320</field>
       <field name="name">Falke Template mit voller Bildschirmbreite</field>
       <field name="rows">3rw</field>
-      <field name="headerHeight">a:2:{s:4:"unit";s:2:"px";s:5:"value";s:3:"230";}</field>
-      <field name="footerHeight">a:2:{s:4:"unit";s:2:"px";s:5:"value";s:3:"120";}</field>
+      <field name="headerHeight">a:2:{s:4:"unit";s:2:"px";s:5:"value";s:3:"288";}</field>
+      <field name="footerHeight">a:2:{s:4:"unit";s:2:"px";s:5:"value";s:3:"250";}</field>
       <field name="cols">1cl</field>
       <field name="widthLeft"></field>
       <field name="widthRight"></field>
       <field name="sections">a:1:{i:0;a:4:{s:5:"title";s:0:"";s:2:"id";s:0:"";s:8:"template";s:13:"block_section";s:8:"position";s:3:"top";}}</field>
-      <field name="framework">a:3:{i:0;s:8:"form.css";i:1;s:10:"layout.css";i:2;s:14:"responsive.css";}</field>
-      <field name="external">a:6:{i:0;s:49:"files/birdsinthesun/theme-falke/css/cookiebar.css";i:1;s:48:"files/birdsinthesun/theme-falke/css/dropdown.css";i:2;s:56:"files/birdsinthesun/theme-falke/css/font-awesome.min.css";i:3;s:50:"files/birdsinthesun/theme-falke/css/mobile-nav.css";i:4;s:45:"files/birdsinthesun/theme-falke/css/style.css";i:5;s:44:"files/birdsinthesun/theme-falke/css/grid.css";}</field>
+      <field name="framework">a:2:{i:0;s:10:"layout.css";i:1;s:14:"responsive.css";}</field>
+      <field name="external">a:6:{i:0;s:49:"files/birdsinthesun/theme-falke/css/cookiebar.css";i:1;s:48:"files/birdsinthesun/theme-falke/css/dropdown.css";i:2;s:56:"files/birdsinthesun/theme-falke/css/font-awesome.min.css";i:3;s:50:"files/birdsinthesun/theme-falke/css/mobile-nav.css";i:4;s:44:"files/birdsinthesun/theme-falke/css/grid.css";i:5;s:45:"files/birdsinthesun/theme-falke/css/style.css";}</field>
       <field name="modules">a:8:{i:0;a:3:{s:3:"mod";s:3:"120";s:3:"col";s:6:"header";s:6:"enable";s:1:"1";}i:1;a:3:{s:3:"mod";s:2:"65";s:3:"col";s:6:"header";s:6:"enable";s:1:"1";}i:2;a:3:{s:3:"mod";s:3:"119";s:3:"col";s:6:"header";s:6:"enable";s:1:"1";}i:3;a:3:{s:3:"mod";s:2:"64";s:3:"col";s:6:"header";s:6:"enable";s:1:"1";}i:4;a:3:{s:3:"mod";s:1:"0";s:3:"col";s:4:"main";s:6:"enable";s:1:"1";}i:5;a:3:{s:3:"mod";s:2:"68";s:3:"col";s:6:"footer";s:6:"enable";s:1:"1";}i:6;a:3:{s:3:"mod";s:2:"87";s:3:"col";s:6:"footer";s:6:"enable";s:1:"1";}i:7;a:3:{s:3:"mod";s:2:"69";s:3:"col";s:6:"footer";s:6:"enable";s:1:"1";}}</field>
       <field name="template"></field>
       <field name="lightboxSize">a:3:{i:0;s:0:"";i:1;s:0:"";i:2;s:0:"";}</field>
@@ -6546,6 +6042,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="newsfeeds">NULL</field>
       <field name="calendarfeeds">NULL</field>
       <field name="be_grid">NULL</field>
+      <field name="type">default</field>
     </row>
     <row>
       <field name="id">26</field>
@@ -6586,13 +6083,14 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
       <field name="newsfeeds">NULL</field>
       <field name="calendarfeeds">NULL</field>
       <field name="be_grid">NULL</field>
+      <field name="type">default</field>
     </row>
   </table>
   <table name="tl_files">
     <row>
       <field name="path">files/birdsinthesun/bilder/birdinthesun-logo.svg</field>
       <field name="hash">b578bb78a3201c1225d4cc09dfdd20ca</field>
-      <field name="lastModified">1744719818</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6604,7 +6102,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/contao1.png</field>
       <field name="hash">df5715254a21113908531a67b78dd4fe</field>
-      <field name="lastModified">1744719834</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6616,7 +6114,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/contao2.png</field>
       <field name="hash">bdb71aae32757b0fee580867c125eced</field>
-      <field name="lastModified">1744719851</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6628,7 +6126,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/contao3-v2.jpg</field>
       <field name="hash">bbe26bb98a6268d8e5cad3203dc5601d</field>
-      <field name="lastModified">1744719848</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6640,7 +6138,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/contao3-v2.png</field>
       <field name="hash">35eae3afb12b6f97a84cd3ba260b076d</field>
-      <field name="lastModified">1744719874</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6652,7 +6150,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/contao3-v3.png</field>
       <field name="hash">2e20877114705f56e03c81d7a354f3b5</field>
-      <field name="lastModified">1744719864</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6664,7 +6162,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/contao3.jpg</field>
       <field name="hash">911dccfac2e4c5769ba7972a43e3f2dc</field>
-      <field name="lastModified">1744719874</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6676,7 +6174,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/contao3.png</field>
       <field name="hash">968777d62ae0635985d2015fd607eacc</field>
-      <field name="lastModified">1744719888</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6688,7 +6186,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/akkordeon-beginn@3x.png</field>
       <field name="hash">cb24ad61bcbefe0d91ac26157b967bfe</field>
-      <field name="lastModified">1744719880</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6700,7 +6198,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/akkordeon-einzelelement@3x.png</field>
       <field name="hash">187be7217c900571c4de7528648ccd00</field>
-      <field name="lastModified">1744719881</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6712,7 +6210,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/akkordeon-ende@3x.png</field>
       <field name="hash">1b20880989056475a4f22ab61ddb6a1f</field>
-      <field name="lastModified">1744719881</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6724,7 +6222,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/artikel-teaser@3x.png</field>
       <field name="hash">4582b70e83b0ac55ad2962901cbd6efb</field>
-      <field name="lastModified">1744719881</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6736,7 +6234,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/artikel@3x.png</field>
       <field name="hash">195133dfc910469608cebbf059dc92c5</field>
-      <field name="lastModified">1744719883</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6748,7 +6246,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/auflistung@3x.png</field>
       <field name="hash">3ed61efc3898c8ceef2d4c98576e29f9</field>
-      <field name="lastModified">1744719883</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6760,7 +6258,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/bild@3x.png</field>
       <field name="hash">eb79c637ac702fe7d67b0b5608f371c9</field>
-      <field name="lastModified">1744719884</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6772,7 +6270,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/code@3x.png</field>
       <field name="hash">ed13e5164fd628ee896064474c476d36</field>
-      <field name="lastModified">1744719885</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6784,7 +6282,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/download@3x.png</field>
       <field name="hash">5449f1bbe93e88ee5ef8dd04d17aa7a6</field>
-      <field name="lastModified">1744719886</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6796,7 +6294,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/downloads@3x.png</field>
       <field name="hash">fe039847c51d0e08c7c055559fee9b1b</field>
-      <field name="lastModified">1744719887</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6808,7 +6306,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/formular@3x.png</field>
       <field name="hash">470b466c20593d614d2f16b31513e4d3</field>
-      <field name="lastModified">1744719887</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6820,7 +6318,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/galerie@3x.png</field>
       <field name="hash">c1a7655e3c24d0d5f083639afd3446e1</field>
-      <field name="lastModified">1744719888</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6832,7 +6330,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/html@3x.png</field>
       <field name="hash">918fcb56e42c5c4751d3634017ba4609</field>
-      <field name="lastModified">1744719889</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6844,7 +6342,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/hyperlink@3x.png</field>
       <field name="hash">ae3257ba4df48ad9c8596910c3fe5141</field>
-      <field name="lastModified">1744719889</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6856,7 +6354,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/individuelles-template@3x.png</field>
       <field name="hash">9dee47ea78f1bdbe4dbe212de3b77225</field>
-      <field name="lastModified">1744719889</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6868,7 +6366,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/inhaltselement@3x.png</field>
       <field name="hash">5ca58d1b8fa63031cd00c0bd80b37f21</field>
-      <field name="lastModified">1744719889</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6880,7 +6378,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/kommentar@3x.png</field>
       <field name="hash">f7311322c0b319fee6d5ce98c8ce1461</field>
-      <field name="lastModified">1744719890</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6892,7 +6390,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/markdown@3x.png</field>
       <field name="hash">31dc6b7f4e37170dc36300ba1059f823</field>
-      <field name="lastModified">1744719890</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6904,7 +6402,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/modul@3x.png</field>
       <field name="hash">3f3fc6313136e75bdc0e23f221fcea16</field>
-      <field name="lastModified">1744719890</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6916,7 +6414,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/slider-beginn@3x.png</field>
       <field name="hash">885d4acdfd8063bce41a0b1e44c67aff</field>
-      <field name="lastModified">1744719891</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6928,7 +6426,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/slider-ende@3x.png</field>
       <field name="hash">6d5cab86f16b6592d9e1e43ec1b972c5</field>
-      <field name="lastModified">1744719891</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6940,7 +6438,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/tabelle@3x.png</field>
       <field name="hash">382e44124368a0e0775e8d52e39df93e</field>
-      <field name="lastModified">1744719891</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6952,7 +6450,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/text@3x.png</field>
       <field name="hash">e5f351acf536db607a321b915b7d8650</field>
-      <field name="lastModified">1744719892</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6964,7 +6462,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/top-link@3x.png</field>
       <field name="hash">10ecd293c69ebdf13aaa1a6587bae559</field>
-      <field name="lastModified">1744719892</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6976,7 +6474,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/ueberschrift@3x.png</field>
       <field name="hash">9d84df317383fa8a95b0873507e4b997</field>
-      <field name="lastModified">1744719893</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -6988,7 +6486,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/ungefiltertes-html@3x.png</field>
       <field name="hash">8b78e7ac42ab570bd1ccbd72bb4949ee</field>
-      <field name="lastModified">1744719893</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7000,7 +6498,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/video-audio@3x.png</field>
       <field name="hash">423963ba943cc56c26535824445e5ffa</field>
-      <field name="lastModified">1744719893</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7012,7 +6510,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/vimeo@3x.png</field>
       <field name="hash">c9930329cdfdd9054e41442408992fa4</field>
-      <field name="lastModified">1744719894</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7024,7 +6522,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/inhaltselemente/youtube@3x.png</field>
       <field name="hash">7f3396d87eed710ab70a959a1daf80ed</field>
-      <field name="lastModified">1744719894</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7036,7 +6534,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/abonnieren.png</field>
       <field name="hash">1c9b66199ca10eb4577eeb1bb75b6c72</field>
-      <field name="lastModified">1744719896</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7048,7 +6546,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/artikel-liste.png</field>
       <field name="hash">62f17f304adf666335286b2e93ef9562</field>
-      <field name="lastModified">1744719897</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7060,7 +6558,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/artikel-navigation.png</field>
       <field name="hash">f6f4a7dfb18cb209d7e1aade7f9da321</field>
-      <field name="lastModified">1744719896</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7072,7 +6570,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/auflistung.png</field>
       <field name="hash">7812cfdef5b48b5a18e4560104b16451</field>
-      <field name="lastModified">1744719897</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7084,7 +6582,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/buchnavigation.png</field>
       <field name="hash">d56388919342acacaf5283f72a15400b</field>
-      <field name="lastModified">1744719897</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7096,7 +6594,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/event-leser.png</field>
       <field name="hash">331ec70417dbfe5f68957bc17616a3a0</field>
-      <field name="lastModified">1744719898</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7108,7 +6606,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/event-liste-menue.png</field>
       <field name="hash">1950c7f5f7c5ecbbaef256378f5f00e9</field>
-      <field name="lastModified">1744719898</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7120,7 +6618,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/event-liste.png</field>
       <field name="hash">7a447026d273c485d6e969ce202f3c7f</field>
-      <field name="lastModified">1744719898</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7132,7 +6630,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/faq-leser.png</field>
       <field name="hash">be15847868236510899985e1016a02e6</field>
-      <field name="lastModified">1744719899</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7144,7 +6642,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/faq-liste.png</field>
       <field name="hash">2472a001851fddaae9c642137034f76a</field>
-      <field name="lastModified">1744719899</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7156,7 +6654,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/faq-seite.png</field>
       <field name="hash">a797c25c462f892dd37efd4466cf701b</field>
-      <field name="lastModified">1744719899</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7168,7 +6666,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/feed-leser.png</field>
       <field name="hash">9cccf186d79e7f38f3f087a5e94cc534</field>
-      <field name="lastModified">1744719900</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7180,7 +6678,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/formular.png</field>
       <field name="hash">76f6513e6b20ecbec69a622d59c6b61a</field>
-      <field name="lastModified">1744719900</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7192,7 +6690,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/individuelle-navigation.png</field>
       <field name="hash">9c2023a2b24edc30575fe79b1036abef</field>
-      <field name="lastModified">1744719900</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7204,7 +6702,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/individuelles-template.png</field>
       <field name="hash">0ec98b6061e43769d2be86afaf2e3c3d</field>
-      <field name="lastModified">1744719901</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7216,7 +6714,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/kalender.png</field>
       <field name="hash">4eb0094fa162572a5162bdf3770d4ee8</field>
-      <field name="lastModified">1744719902</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7228,7 +6726,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/kommentare.png</field>
       <field name="hash">7dae9c47f89cc8d89340e913f821d38e</field>
-      <field name="lastModified">1744719902</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7240,7 +6738,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/konto-schliessen.png</field>
       <field name="hash">6a1816734b57748cd57cec0d5e93fb38</field>
-      <field name="lastModified">1744719903</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7252,7 +6750,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/kuendigen.png</field>
       <field name="hash">ca83a1d4e0b78e5e81b2bbdbed26ab6c</field>
-      <field name="lastModified">1744719902</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7264,7 +6762,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/login-formular.png</field>
       <field name="hash">a6291a2f48564be35a3a445421dfd3b2</field>
-      <field name="lastModified">1744719904</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7276,7 +6774,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/nachrichten-archiv.png</field>
       <field name="hash">c29405b4a082345b890117b5d2b6236c</field>
-      <field name="lastModified">1744719903</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7288,7 +6786,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/nachrichten-leser.png</field>
       <field name="hash">fdc701a69388ec8ae408be9de255d58b</field>
-      <field name="lastModified">1744719904</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7300,7 +6798,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/nachrichten-liste.png</field>
       <field name="hash">b163a6cf1b624307a867e34564d3a0b2</field>
-      <field name="lastModified">1744719904</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7312,7 +6810,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/nachrichtenarchiv-menue.png</field>
       <field name="hash">93f76d970dcd50183efc8753499adb87</field>
-      <field name="lastModified">1744719904</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7324,7 +6822,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/navigations-menue.png</field>
       <field name="hash">7edcf194832b07133f95c975599b7341</field>
-      <field name="lastModified">1744719905</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7336,7 +6834,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/navigationspfad.png</field>
       <field name="hash">8159b1ce755e9162d02d5c7a31dbb344</field>
-      <field name="lastModified">1744719905</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7348,7 +6846,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/newsletter-leser.png</field>
       <field name="hash">49173c7c3f934877afa909f8a3518169</field>
-      <field name="lastModified">1744719905</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7360,7 +6858,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/newsletter-liste.png</field>
       <field name="hash">c7dd0471bcc1d442042313d3dbd98479</field>
-      <field name="lastModified">1744719906</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7372,7 +6870,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/passwort-aendern.png</field>
       <field name="hash">686267384b0922c89f65ecac9b09f26e</field>
-      <field name="lastModified">1744719906</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7384,7 +6882,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/passwort-vergessen.png</field>
       <field name="hash">6e9ac5bd4652864b2a7e5b0772dd2e42</field>
-      <field name="lastModified">1744719907</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7396,7 +6894,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/personendaten.png</field>
       <field name="hash">72532690bd8d1828392ef3248151ca54</field>
-      <field name="lastModified">1744719907</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7408,7 +6906,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/quick-link.png</field>
       <field name="hash">b81af6c087088827c894c25b9ec69fa3</field>
-      <field name="lastModified">1744719908</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7420,7 +6918,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/quick-navigation.png</field>
       <field name="hash">896e792fd2333be02c3cf3d07872bafd</field>
-      <field name="lastModified">1744719908</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7432,7 +6930,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/registrierung.png</field>
       <field name="hash">9ae504358618a7a6bc2132238bb77478</field>
-      <field name="lastModified">1744719909</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7444,7 +6942,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/rss-leser.png</field>
       <field name="hash">be469389faa5227371b1d091c904ef2f</field>
-      <field name="lastModified">1744719908</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7456,7 +6954,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/seitenstartabhaenige-module.png</field>
       <field name="hash">ef38ab11ea2282269810c66b53a9269e</field>
-      <field name="lastModified">1744719909</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7468,7 +6966,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/sitemap.png</field>
       <field name="hash">603b325fe5523084ed6d6ad1adbb4172</field>
-      <field name="lastModified">1744719910</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7480,7 +6978,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/suchmaschine.png</field>
       <field name="hash">e260b12bf7b1e1198ca61e20e53526e7</field>
-      <field name="lastModified">1744719910</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7492,7 +6990,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/zufallsbild.png</field>
       <field name="hash">3558e65662714f5a44d928194409dad2</field>
-      <field name="lastModified">1744719910</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7504,7 +7002,19 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/bilder/module/zwei-faktor-authentifizierung.png</field>
       <field name="hash">efa4b1845d86f110d64352a913b1bb08</field>
-      <field name="lastModified">1744719910</field>
+      <field name="lastModified">1746842723</field>
+      <field name="importantPartX">0</field>
+      <field name="importantPartY">0</field>
+      <field name="importantPartWidth">0</field>
+      <field name="importantPartHeight">0</field>
+      <field name="meta">NULL</field>
+      <field name="textTrackLanguage"></field>
+      <field name="textTrackType">NULL</field>
+    </row>
+    <row>
+      <field name="path">files/birdsinthesun/theme-falke/css/base.css</field>
+      <field name="hash">8f9639bcc1263efa8d76703aca47979e</field>
+      <field name="lastModified">NULL</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7515,8 +7025,8 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     </row>
     <row>
       <field name="path">files/birdsinthesun/theme-falke/css/be-grid.css</field>
-      <field name="hash">8f189b738b5c912abd0793fd917c159b</field>
-      <field name="lastModified">1745267849</field>
+      <field name="hash">d462fe7f78f31c2481699a70095abd1e</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7528,7 +7038,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/css/cookiebar.css</field>
       <field name="hash">82615409372ab5a15a4a184927f088a8</field>
-      <field name="lastModified">1745263687</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7539,8 +7049,8 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     </row>
     <row>
       <field name="path">files/birdsinthesun/theme-falke/css/dropdown.css</field>
-      <field name="hash">21684bf5841fb8b4658c43543f339e60</field>
-      <field name="lastModified">1745170547</field>
+      <field name="hash">8631d7935a7aaa5645b4ab3fe586eebd</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7552,7 +7062,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/css/font-awesome.min.css</field>
       <field name="hash">dd7f558015377fc125719ea6912592bf</field>
-      <field name="lastModified">1745086486</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7563,8 +7073,8 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     </row>
     <row>
       <field name="path">files/birdsinthesun/theme-falke/css/grid.css</field>
-      <field name="hash">207eea73464d8349c647af5c0125ba6d</field>
-      <field name="lastModified">1745268058</field>
+      <field name="hash">5488c0509a6ccad03af6fa87968e8f0c</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7575,8 +7085,8 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     </row>
     <row>
       <field name="path">files/birdsinthesun/theme-falke/css/mobile-nav.css</field>
-      <field name="hash">cc672c9c139d68746b1cf21c93055477</field>
-      <field name="lastModified">1745086486</field>
+      <field name="hash">1d531a054d66416dc2d72b3e8e50a464</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7587,8 +7097,8 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     </row>
     <row>
       <field name="path">files/birdsinthesun/theme-falke/css/style.css</field>
-      <field name="hash">32e3e8ba615531e28ca08b8be7f5436e</field>
-      <field name="lastModified">1745269827</field>
+      <field name="hash">85a280278f43c87be5e78e1a41eaafdd</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7600,7 +7110,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/fontawesome/fontawesome-webfont.eot</field>
       <field name="hash">674f50d287a8c48dc19ba404d20fe713</field>
-      <field name="lastModified">1745086486</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7612,7 +7122,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/fontawesome/fontawesome-webfont.svg</field>
       <field name="hash">912ec66d7572ff821749319396470bde</field>
-      <field name="lastModified">1745086487</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7624,7 +7134,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/fontawesome/fontawesome-webfont.ttf</field>
       <field name="hash">b06871f281fee6b241d60582ae9369b9</field>
-      <field name="lastModified">1745086487</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7636,7 +7146,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/fontawesome/fontawesome-webfont.woff</field>
       <field name="hash">fee66e712a8a08eef5805a46892932ad</field>
-      <field name="lastModified">1745086487</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7648,7 +7158,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/fontawesome/fontawesome-webfont.woff2</field>
       <field name="hash">af7ae505a9eed503f8b8e6982036873e</field>
-      <field name="lastModified">1745086487</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7660,7 +7170,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/js/cookiebar.js</field>
       <field name="hash">69a813e75d821730f0596a415098c353</field>
-      <field name="lastModified">1745086487</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7672,7 +7182,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/js/dropdown.js</field>
       <field name="hash">0f563d5f8e2aaf52360c490c7519f3d0</field>
-      <field name="lastModified">1745086487</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7684,7 +7194,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/js/falke.js</field>
       <field name="hash">5378adbd5d5d52bd07b9c7615e32c0ee</field>
-      <field name="lastModified">1745086621</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>
@@ -7696,7 +7206,7 @@ Wenn Sie keinen Zugang angefordert haben, ignorieren Sie bitte diese E-Mail.</fi
     <row>
       <field name="path">files/birdsinthesun/theme-falke/js/mobile-nav.js</field>
       <field name="hash">1e8406ebaf43d7732a14f21621a07285</field>
-      <field name="lastModified">1745086488</field>
+      <field name="lastModified">1746842723</field>
       <field name="importantPartX">0</field>
       <field name="importantPartY">0</field>
       <field name="importantPartWidth">0</field>

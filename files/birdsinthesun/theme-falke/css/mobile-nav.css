@@ -15,20 +15,20 @@
         top:10px;
         right:25px;
         padding:0;
-        background-color:#fff;
+        background-color:var(--white);
         border-radius: 18px;
         z-index:9999;
         }
         
     #mobile_nav_toggler.active,
     #mobile_nav_toggler:hover{
-        background-color:rgba(210,179,86,0.5);
+        background-color:var(--accent-2);
         }
     #mobile_nav_toggler > span:before{
         font-family:'FontAwesome';
         content: "\f0c9";
         font-size:34px;
-        color:rgba(210,179,86,0.8);
+        color:var(--bg);
         line-height:55px;
         width:55px;
         padding-left:4px;
@@ -47,7 +47,7 @@
         top:0;
         left:0;
         z-index:9989;
-        background:#fff;
+        background:var(--bg);
         overflow-y:scroll;
         }
     #mobile_nav.show_mobile_nav{
@@ -59,12 +59,12 @@
         margin:0;}
     #mobile_nav .level_1{
         display:block;
-        width:70%;
+        width:90%;
         margin:12vw auto;
         
         }
     #mobile_nav .level_2{
-        background:#eee;
+        background:var(--white);
         padding-bottom:3vw;
         display:none;
         }
@@ -77,11 +77,11 @@
         
     #mobile_nav .level_1 > li{
          
-         border-top:1px solid #ccc;
+         border-top:1px solid var(--accent-2);
          }
     #mobile_nav .level_1 > li > a,
     #mobile_nav .level_1 > li > strong{
-         border-left:3px solid  #fff;
+         border0-left:3px solid  var(--accent-3);
          }
     #mobile_nav .level_1 > li:first-child{
          border-top:0;
@@ -89,7 +89,7 @@
     #mobile_nav a,
     #mobile_nav strong{
         display:inline-block;
-        color:#666;
+        color:var(--text);
         font-size:6vw;
         line-height:8.8vw;
         font-weight:300;
@@ -100,13 +100,13 @@
     #mobile_nav a:hover,
     #mobile_nav strong,
     #mobile_nav a.trail{
-        color:rgba(210,179,86,1);
+        color:var(--accent-2);
         
         }
     #mobile_nav .level_1 > li > a:hover,
     #mobile_nav .level_1 > li > strong,
     #mobile_nav .level_1 > li > a.trail{
-        border-left:3px solid rgba(210,179,86,1);
+        borde0r-left:3px solid var(--accent-2);
         }
     #mobile_nav .level_2 a,
     #mobile_nav .level_2 strong{
@@ -134,10 +134,10 @@
         margin-right:0;
     }
     #mobile_nav .show .toggler {
-        color: rgba(210,179,86,0.5);
+        color: var(--accent-23;
     }
     #mobile_nav .toggler:hover {
-        color: #bbb;
+        color: var(--white);
     }
     #mobile_nav .level_2 .toggler{
         display:none;}

@@ -13,7 +13,11 @@
     ],
     "minimum-stability":"stable",
     "prefer-stable": true,
+<<<<<<< Updated upstream
     "version": "main",
+=======
+    "version": "1.2.0",
+>>>>>>> Stashed changes
     "license": "MIT",
     "authors": [
         {
@@ -24,14 +28,14 @@
         }
     ],
     "require": {
-        "contao/manager-bundle":"5.5.*",
-        "contao/core-bundle": "5.5.*",
-        "contao/calendar-bundle": "5.5.*",
-        "contao/comments-bundle": "5.5.*",
+        "contao/manager-bundle":"5.6.*",
+        "contao/core-bundle": "5.6.*",
+        "contao/calendar-bundle": "5.6.*",
+        "contao/comments-bundle": "5.6.*",
         "contao/conflicts": "*@dev",
-        "contao/faq-bundle": "5.5.*",
-        "contao/news-bundle": "5.5.*",
-        "contao/newsletter-bundle": "5.5.*",
+        "contao/faq-bundle": "5.6.*",
+        "contao/news-bundle": "5.6.*",
+        "contao/newsletter-bundle": "5.6.*",
         "twig/intl-extra": "3.20.*",
         "birdsinthesun/fly_ux": "1.2.*"
     },
